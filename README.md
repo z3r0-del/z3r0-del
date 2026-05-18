@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="./github.gif" width="600">
   <br>
-  <p>`privacy-minded` • `security curious` • `learning in progress`</p>
+  <h3>privacy-minded • security curious • learning in progress</h3>
 </div>
 
 ---
