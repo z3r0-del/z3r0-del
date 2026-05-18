@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h3> >> privacy-minded • security curious • learning in progress<< </h3>
+  <h3> >> privacy-minded • security curious • learning in progress << </h3>
   <br>
   <img src="./github.gif" width="600">
 </div>
