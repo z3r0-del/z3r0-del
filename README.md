@@ -4,7 +4,7 @@
 
 ---
 
-### \udb86\ude4a `whoami.py`
+### :computer: `whoami.py`
 
 ```python
 class z3r0:
