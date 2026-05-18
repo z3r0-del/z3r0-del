@@ -20,13 +20,13 @@ class z3r0:
       self.rice_desktop()
 ```
 
-### `tech_stack.sh`
+### :gear: `tech_stack.sh`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,apple,python,js,html,css,bash,neovim,git,github,lua,obsidian,raspberrypi&theme=dark" />
 </div>
 
-### `github_stats.json`
+### :globe_with_meridians: `github_stats.json`
 
 <div align="center">
   <a href="https://git.io/streak-stats">
