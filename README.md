@@ -1,7 +1,8 @@
 <div id="header" align="center">
-  <img src="./github.gif" width="600">
   <br>
   <h3>privacy-minded • security curious • learning in progress</h3>
+  <br>
+  <img src="./github.gif" width="600">
 </div>
 
 ---
