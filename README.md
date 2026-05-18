@@ -29,11 +29,15 @@ class z3r0:
 [OK] Exploring security through HTB, THM, etc.
 ```
 
+---
+
 ### :gear: `/var/log/tech_stack.log`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,apple,python,js,html,css,bash,neovim,git,github,lua,obsidian,raspberrypi&theme=dark" />
 </div>
+
+---
 
 ### :globe_with_meridians: `github_stats.json`
 
@@ -42,6 +46,8 @@ class z3r0:
     <img src="https://streak-stats.demolab.com?user=robinv1205&theme=tokyonight-duo&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </div>
+
+---
 
 <div align="center">
   <i>I use Neovim, btw.</i>🐧
