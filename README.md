@@ -12,7 +12,7 @@
 class z3r0:
   def __init__(self):
     self.roles = ["student"]
-    self.systems = ["cachyOS (Arch-btw)", "macOS", "Kali Linux"]
+    self.systems = ["Arch-btw", "macOS", "Kali Linux"]
     self.focus_areas = ["security", "privacy", "web development", "everything else cyber related"]
 
   def execute_daily_routine(self):
