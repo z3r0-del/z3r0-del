@@ -1,5 +1,7 @@
 <div id="header" align="center">
   <img src="./github.gif" width="600">
+  <br>
+  <p>`privacy-minded` • `security curious` • `learning in progress`</p>
 </div>
 
 ---
@@ -11,7 +13,7 @@ class z3r0:
   def __init__(self):
     self.roles = ["student"]
     self.systems = ["cachyOS (Arch-btw)", "macOS", "Kali Linux"]
-    self.focus_areas = ["cybersecurity", "privacy", "pentesting"]
+    self.focus_areas = ["security", "privacy", "web development", "everything else cyber related"]
 
   def execute_daily_routine(self):
     while True:
@@ -20,7 +22,14 @@ class z3r0:
       self.rice_desktop()
 ```
 
-### :gear: `tech_stack.sh`
+```bash
+~ $ ./current_focus.sh
+[OK] Building Python projects
+[OK] Learning web development
+[OK] Exploring security through HTB, THM, etc.
+```
+
+### :gear: `/var/log/tech_stack.log`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,apple,python,js,html,css,bash,neovim,git,github,lua,obsidian,raspberrypi&theme=dark" />
