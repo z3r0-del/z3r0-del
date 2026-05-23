@@ -50,5 +50,5 @@ class z3r0:
 ---
 
 <div align="center">
-  <i>I use Neovim, btw.</i>🐧
+  <i>I use Arch, btw.</i>🐧
 </div>
