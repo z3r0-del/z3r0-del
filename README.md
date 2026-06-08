@@ -43,12 +43,12 @@ class z3r0:
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=robinv1205&theme=tokyonight-duo&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=robinv1205&theme=tokyonight-duo&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&fire=FFA500" alt="GitHub Streak" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <i>I use Neovim, btw.</i>🐧
+  <i>I'm using Arch, btw.</i>🐧
 </div>
