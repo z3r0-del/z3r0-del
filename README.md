@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h3>privacy-minded • security curious • learning in progress</h3>
+  <h3> >>  privacy-minded • security curious • learning in progress  << </h3>
   <br>
   <img src="./github.gif" width="600">
 </div>
@@ -12,7 +12,7 @@
 class z3r0:
   def __init__(self):
     self.roles = ["student"]
-    self.systems = ["cachyOS (Arch-btw)", "macOS", "Kali Linux"]
+    self.systems = ["Arch-btw", "macOS", "Kali Linux"]
     self.focus_areas = ["security", "privacy", "web development", "everything else cyber related"]
 
   def execute_daily_routine(self):
@@ -50,5 +50,13 @@ class z3r0:
 ---
 
 <div align="center">
+<<<<<<< HEAD
   <i>I'm using Arch, btw.</i>🐧
+=======
+<<<<<<< HEAD
+  <i>I use Arch, btw.</i>🐧
+=======
+  <i>I'm using Arch, btw.</i>🐧
+>>>>>>> 4b175c8 (update README)
+>>>>>>> update
 </div>
