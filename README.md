@@ -50,13 +50,5 @@ class z3r0:
 ---
 
 <div align="center">
-<<<<<<< HEAD
   <i>I'm using Arch, btw.</i>🐧
-=======
-<<<<<<< HEAD
-  <i>I use Arch, btw.</i>🐧
-=======
-  <i>I'm using Arch, btw.</i>🐧
->>>>>>> 4b175c8 (update README)
->>>>>>> update
 </div>
