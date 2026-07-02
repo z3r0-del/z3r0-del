@@ -50,5 +50,5 @@ class z3r0:
 ---
 
 <div align="center">
-  <i>I'm using Arch, btw.</i>🐧
+  🐧
 </div>
