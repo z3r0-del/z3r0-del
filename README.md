@@ -3,7 +3,7 @@
   <br>
   <img src="./github.gif" width="600">
 </div>
-
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,apple,python,js,html,css,bash,neovim,git,github,lua,obsidian,raspberrypi&theme=dark" />
 </div>
