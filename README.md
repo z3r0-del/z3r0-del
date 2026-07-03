@@ -4,6 +4,10 @@
   <img src="./github.gif" width="600">
 </div>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,apple,python,js,html,css,bash,neovim,git,github,lua,obsidian,raspberrypi&theme=dark" />
+</div>
+
 ---
 
 ### :computer: `whoami.py`
@@ -32,10 +36,6 @@ class z3r0:
 ---
 
 ### :gear: `/var/log/tech_stack.log`
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,apple,python,js,html,css,bash,neovim,git,github,lua,obsidian,raspberrypi&theme=dark" />
-</div>
 
 ---
 
