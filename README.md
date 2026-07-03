@@ -35,10 +35,6 @@ class z3r0:
 
 ---
 
-### :gear: `/var/log/tech_stack.log`
-
----
-
 ### :globe_with_meridians: `github_stats.json`
 
 <div align="center">
