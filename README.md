@@ -44,6 +44,12 @@ class z3r0:
 
 ---
 
+### :snake: `welcome_banner.py`
+
+The Banner has been created with `manim` - a Python Library.
+See [[Link]] for code.
+
+---
 <div align="center">
   🐧
 </div>
