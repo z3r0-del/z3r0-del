@@ -49,7 +49,9 @@ class z3r0:
 <p>The Banner has been created with <a href="https://www.manim.community/">manim</a> - a Python Library.
 See <a href="https://github.com/z3r0-del/z3r0-del/blob/main/manim-header/main.py">main.py</a> for code.
 </p>
+
 ---
+
 <div align="center">
   🐧
 </div>
