@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h3> >>  privacy-minded • security curious • learning in progress  << </h3>
   <br>
-  <img src="./github.gif" width="600">
+  <img src="./Template_ManimCE_v0.20.1.gif" width="600">
 </div>
 <br>
 <div align="center">
