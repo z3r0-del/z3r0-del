@@ -108,12 +108,16 @@ class Template(Scene):
         cursor.move_to(text[0])
         cursor.set_z_index(0)
 
+        circle = Circle(radius=0.6, color=WHITE, fill_color=WHITE, fill_opacity=1.0)
+        circle.move_to(logo.get_center())
+
         self.play(
             TypeWithCursor(text, cursor),
-            FadeIn(logo),
+            GrowFromCenter(circle),
             FadeIn(skills_bg),
             FadeIn(skills, shift=UP * 0.2),
         )
+        self.play(ReplacementTransform(circle, logo))
         self.play(Blink(cursor, blinks=2))
         self.wait(0.2)
 
