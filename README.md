@@ -1,11 +1,10 @@
 <div id="header" align="center">
-  <h3> >>  privacy-minded • security curious • learning in progress  << </h3>
   <br>
   <img src="./Template_ManimCE_v0.20.1.gif" width="600">
 </div>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,apple,python,js,html,css,bash,neovim,git,github,lua,obsidian,raspberrypi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kali,neovim,lua,obsidian,raspberrypi&theme=dark" />
 </div>
 
 ---
